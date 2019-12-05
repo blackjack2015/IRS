@@ -41,7 +41,7 @@ We design a novel network, namely DispNormNet, to estimate the disparity map and
 DispNormNet
 </div>
 
-
+<!--
 # Paper
 
 Thanks for citing our paper if you find anything helpful.
@@ -55,9 +55,15 @@ Q. Wang<sup>*,1</sup>, S. Zheng<sup>*,1</sup>, Q. Yan<sup>*,2</sup>, F. Deng<sup
 <sup>1</sup>Department of Computer Science, Hong Kong Baptist University. <sup>2</sup>School of Geodesy and Geomatics, Wuhan University.
 </font>
 
+-->
+
 # Video Demonstration
 
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jThNQFHNU_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
+
+[![IRS Dataset and DispNormNet](http://img.youtube.com/vi/jThNQFHNU_s/0.jpg)](http://www.youtube.com/watch?v=jThNQFHNU_s)
 
 # Contact
 
