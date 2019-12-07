@@ -66,7 +66,7 @@ Q. Wang<sup>*,1</sup>, S. Zheng<sup>*,1</sup>, Q. Yan<sup>*,2</sup>, F. Deng<sup
 # Download 
 You can use the following BaiduYun link to download our dataset. More download links, including Google Drive and OneDrive, will be provided soon.
 
-BaiduYun: [https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ](https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ){:target="_blank"}
+BaiduYun: [https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ](https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ)
 
 # Video Demonstration
 
@@ -74,7 +74,7 @@ BaiduYun: [https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ](https://pan.baidu.co
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jThNQFHNU_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -->
 
-[![IRS Dataset and DispNormNet](http://img.youtube.com/vi/jThNQFHNU_s/0.jpg)](http://www.youtube.com/watch?v=jThNQFHNU_s){:target="_blank"}
+[![IRS Dataset and DispNormNet](http://img.youtube.com/vi/jThNQFHNU_s/0.jpg)](http://www.youtube.com/watch?v=jThNQFHNU_s)
 
 # Contact
 
