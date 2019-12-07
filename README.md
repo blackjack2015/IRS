@@ -20,7 +20,7 @@ Rendering Characteristic|Options
 indoor scene class|home(31145), office(43417), restaurant(22058), store(6696)
 object class|desk, chair, sofa, glass, mirror, bed, bedside table, lamp, wardrobe, etc.
 brightness|over-exposure(>1300), darkness(>1700)
-lighe behavior|bloom(>1700), lens flare(>1700), glass transmission(>3600), mirror reflection(>3600)
+light behavior|bloom(>1700), lens flare(>1700), glass transmission(>3600), mirror reflection(>3600)
 
 We give some sample of different indoor scene characteristics as follows.
 
