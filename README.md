@@ -64,11 +64,9 @@ Q. Wang<sup>*,1</sup>, S. Zheng<sup>*,1</sup>, Q. Yan<sup>*,2</sup>, F. Deng<sup
 -->
 
 # Download 
-You can use the following BaiduYun link to download our dataset. More download links, including Google Drive and OneDrive, will be provided soon.
+You can use the following OneDrive link to download our dataset.
 
-BaiduYun: <a href="https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ" target="_blank">https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ</a>
-
-Google Drive: <a href="https://drive.google.com/drive/folders/1GoMbbiAJuIE1ArhdR4Uj__HzScTvj6NP?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1GoMbbiAJuIE1ArhdR4Uj__HzScTvj6NP?usp=sharing</a>
+<a href="[https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ](https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/15484211_life_hkbu_edu_hk/Eua7b-ILgiFNmWHIYb7PF4QByeRB6RczaPZfVG1ciQP4Zw?e=fYgfrf)" target="_blank">OneDrive</a>
 
 # Video Demonstration
 
