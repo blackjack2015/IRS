@@ -2,7 +2,7 @@
 
 ## 0. Code
 
-Please check the code on how to generate the opencv-style camera-to-world poses from the `UE_Trace.txt` files.
+Please check the code [prepare_irs_dataset_pose.py](./prepare_irs_dataset_pose.py) on how to generate the opencv-style camera-to-world poses from the `UE_Trace.txt` files.
 
 ## 1. Raw Camera Pose in IRS Dataset
 
@@ -144,3 +144,11 @@ Assume we have the following coordinate systems:
 $T^{w}_{c}$ = $T^{w}_{wue}$ * $T^{wue}_{cue}$ * $T^{cue}_{c}$ = $T$ * `camera-to-world-pose-UE` * inv(T)
 
 where, the `camera-to-wolrd pose in UE` can be loaded from the `UE_trace.txt` beforementioned.
+
+## 4. Verify the Cameara Pose You Just Got
+
+- The generated camera poses can be verified by depth warping among multi-view images. See an example from `OfficeMedley3/l_1.png` and `OfficeMedley3/l_3.png`.
+
+![camera poses verified](./imgs/irs-cam-pose-check.png?raw=true "Camera pose verified by multi-view image warping")
+
+You can find the pixel highlighted by a red circle is visually correctly warped into another view highlighted by a green circle.
