@@ -63,7 +63,7 @@ pose_quats = np.loadtxt(pose_src_file, comments='#',
 
 ```plain
 
-  +z (Up) | 
+    +z (Up) | 
             |        / +x (Forward)
             |      / 
             |    / 
