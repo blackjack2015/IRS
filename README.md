@@ -97,7 +97,7 @@ sudo apt-get install openexr
 
 ### Dataset
 
-Download IRS dataset from https://pan.baidu.com/s/1VKVVdljNdhoyJ8JdQUCwKQ (BaiduYun). \
+Download IRS dataset from https://1drv.ms/f/s!AmN7U9URpGVGem0coY8PJMHYg0g?e=ZAkMyz (OneDrive). \
 Extract zip files and put them in correct folder:
 ```
 ---- pytorch-dispnet ---- data ---- IRSDataset ---- Home
