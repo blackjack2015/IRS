@@ -99,7 +99,7 @@ sudo apt-get install openexr
 
 Download IRS dataset from https://1drv.ms/f/s!AmN7U9URpGVGem0coY8PJMHYg0g?e=nvH5oB (OneDrive). \
 Check the following MD5 of all files to ensure their correctness.
-|File Name|md5sum|
+|MD5SUM|File Name|
 |:--:|:--:|
 | e5e2ca49f02e1fea3c7c5c8b29d31683 | Store.tar.gz |
 | d62b62c3b6badcef0d348788bdf4f319 | IRS_small.tar.gz |
