@@ -98,6 +98,17 @@ sudo apt-get install openexr
 ### Dataset
 
 Download IRS dataset from https://1drv.ms/f/s!AmN7U9URpGVGem0coY8PJMHYg0g?e=nvH5oB (OneDrive). \
+Check the following MD5 of all files to ensure their correctness.
+|File Name|md5sum|
+|:--:|:--:|
+| e5e2ca49f02e1fea3c7c5c8b29d31683 | Store.tar.gz |
+| d62b62c3b6badcef0d348788bdf4f319 | IRS_small.tar.gz |
+| ac569053a8dbd76bb82f1c729e77efa4 | Home-1.tar.gz |
+| 65aad05ae341750911c3da345d0aabb2 | Home-2.tar.gz |
+| de77ab28d9aaec37373a340a58889840 | Office-1.tar.gz |
+| 2a5cb91fb2790d92977c8d0909539543 | Office-2.tar.gz |
+| d68dd6014c0c8d6ae24b27cc2fce6423 | Restaurant.tar.gz |
+
 Extract zip files and put them in correct folder:
 ```
 ---- pytorch-dispnet ---- data ---- IRSDataset ---- Home
